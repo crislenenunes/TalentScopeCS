@@ -6,10 +6,10 @@ O **TalentScope CS** é uma plataforma de inteligência artificial voltada para 
 
 ### Principais Funcionalidades:
 
-✅ Pontuação automatizada com base em experiência, inglês, CRM e currículo  
-📊 Avaliação de competências técnicas e comportamentais  
-🔍 Detecção de palavras-chave relevantes em currículos  
-💡 Recomendações personalizadas para melhoria do perfil  
+- Pontuação automatizada com base em experiência, inglês, CRM e currículo  
+- Avaliação de competências técnicas e comportamentais  
+  - Detecção de palavras-chave relevantes em currículos  
+💡- Recomendações personalizadas para melhoria do perfil  
 
 🔗 **Acesse o projeto:** [Hugging Face Space](https://huggingface.co/spaces/Crislene/TalentScopeCS)
 
@@ -89,7 +89,7 @@ graph TD
 
 ---
 
-## 📈 Métricas do Modelo
+## Métricas do Modelo
 
 ```python
               precision    recall  f1-score   support
@@ -141,7 +141,7 @@ TalentScopeCS/
 
 ---
 
-## 🌟 Destaques Técnicos
+## Destaques Técnicos
 
 ### 1. Análise de Currículo com NLP Básico
 
@@ -185,7 +185,7 @@ pontuacao_final = (5*0.30) + (4*0.25) + (3*0.20) + (6.2*0.25)
 
 ---
 
-## 📚 Metodologia
+## Metodologia
 
 - **Geração de Dados:**  
   200 candidatos simulados com diferentes perfis.
@@ -208,7 +208,7 @@ pontuacao_final = (5*0.30) + (4*0.25) + (3*0.20) + (6.2*0.25)
 
 ---
 
-## 🤝 Como Contribuir
+## Como Contribuir
 
 1. Faça um fork do projeto  
 2. Crie uma nova branch `git checkout -b feature/nova-feature`  
