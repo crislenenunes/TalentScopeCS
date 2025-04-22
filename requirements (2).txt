@@ -1,0 +1,5 @@
+gradio>=3.50.0
+scikit-learn
+PyPDF2
+pandas
+numpy
