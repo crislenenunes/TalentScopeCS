@@ -1,7 +1,5 @@
 # TalentScope CS – Analisador Inteligente para Estágio em Customer Success
 
-![Banner](https://via.placeholder.com/1200x400/6e48aa/ffffff?text=TalentScope+CS+%7C+Est%C3%A1gio+Customer+Success)
-
 ## Visão Geral
 
 O **TalentScope CS** é uma plataforma de inteligência artificial voltada para a **seleção inteligente de candidatos a estágio em Customer Success**, utilizando análise automatizada de currículos, pontuação por critérios definidos e recomendações para desenvolvimento profissional.
